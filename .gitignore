@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database
+db.sqlite3
+db.sqlite3-journal
+
+# Environments
+.env/
+venv/
+ENV/
+env/
+.venv/
+pyvenv.cfg
+
+# Static files collected
+staticfiles/
+
+# Vercel
+.vercel/
